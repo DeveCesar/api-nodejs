@@ -1,2 +1,2 @@
-# api-nodejs
-API-NODEJS Con NodeJS y ORM Sequelize base de datos en postgres
+# API-REST NODEJS Y POSTGRESQL
+Api usando el NODEJS Y EL ORM SEQUELIZE Y BASE DE DATOS POSTGRESQL 
